@@ -21,7 +21,7 @@ readme = "README.md"
 license = { file="LICENSE" }
 requires-python = ">=3.11"
 dependencies = [
-    "numpy>=2.0.0",
+    "numpy==1.23.5",
     "sympy>=1.13",
     "ase>=3.21",
     "h5py",
